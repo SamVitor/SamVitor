@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @SamVitor
-- 👀 I’m interested in find a new way for programing
-- 🌱 I’m currently learning of every
-- 💞️ I’m looking to collaborate on new project's
+- Olá, eu sou Samuel Monteiro👋 
+- Estudante de Engenharia de Software 👀 
+- Profissional com experiência em manutenção🌱 
+- Em desenvolvimento nas áreas de: 💞️
+- Python
+- SQL
+- Redes Industriais
+- Automação e IIoT
+- Objetivo:
+- Unir Engenharia de Software, Automação Industrial e confiabilidade para desenvolver soluções de monitoramento, manutenção preditiva e transformação digital para a industria.
 - 📫 How to reach me samuelmoscol@hotmail.com
-
+- retunr 0
