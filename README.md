@@ -1,7 +1,7 @@
-- Olá, eu sou Samuel Monteiro👋 
-- Estudante de Engenharia de Software 👀 
-- Profissional com experiência em manutenção🌱 
-- Em desenvolvimento nas áreas de: 💞️
+- Olá, eu sou Samuel Monteiro
+- Estudante de Engenharia de Software 
+- Profissional com experiência em manutenção
+- Em desenvolvimento nas áreas de:
 - Python
 - SQL
 - Redes Industriais
