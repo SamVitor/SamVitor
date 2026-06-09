@@ -9,4 +9,3 @@
 - Objetivo:
 - Unir Engenharia de Software, Automação Industrial e confiabilidade para desenvolver soluções de monitoramento, manutenção preditiva e transformação digital para a industria.
 - 📫 How to reach me samuelmoscol@hotmail.com
-- retunr 0
